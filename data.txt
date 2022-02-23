@@ -1,6 +1,6 @@
-Красненькое платье|https://www.wildberries.ru/catalog/61694880/detail.aspx?size=109346920|700
-Розовое платье|https://www.wildberries.ru/catalog/31166228/detail.aspx?size=68049176|500
-Желтое платье|https://www.wildberries.ru/catalog/13295368/detail.aspx?size=40474613|500
+Красненькое платье|https://www.wildberries.ru/catalog/61694880/detail.aspx?size=109346920|800
+Розовое платье|https://www.wildberries.ru/catalog/31166228/detail.aspx?size=68049176|550
+Желтое платье|https://www.wildberries.ru/catalog/13295368/detail.aspx?size=40474613|550
 Божьекоровчатый шарфик|https://www.wildberries.ru/catalog/43089560/detail.aspx?size=85981495|400
 Розовый пижамик|https://www.wildberries.ru/catalog/23809242/detail.aspx?size=57310996|420
 Звёздчатый пижамик|https://www.wildberries.ru/catalog/33653497/detail.aspx?size=71441928|670
